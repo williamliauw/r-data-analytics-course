@@ -1,0 +1,21 @@
+
+# File sementara R dan RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# File rahasia
+.env
+.Renviron
+
+# Package library lokal
+renv/library/
+
+# File sementara
+*.tmp
+*.log
+
+# Data lokal yang tidak dibagikan
+data/raw/*
+data/processed/*
