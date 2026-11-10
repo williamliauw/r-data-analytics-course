@@ -22,7 +22,7 @@
 ## Progres Pembelajaran
 
 - [x] Pengenalan R dan RStudio
-- [ ] Data manipulation
+- [x] Data manipulation
 - [ ] Exploratory data analysis
 - [ ] Visualisasi data
 - [ ] Interpretasi dan insight
